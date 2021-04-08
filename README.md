@@ -46,7 +46,7 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=d871a66bd82f6001ee6cb75a5572a975">interation over collections
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=d871a66bd82f6001ee6cb75a5572a975">interation over collections</a>
         </td>
         <td>
             iterating over array, String, Vec, VecDeq, and HashMap
@@ -54,38 +54,50 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     </tr>
     <tr>
         <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=c91bdd1431608e101471f3e43e54a73a">generic function and struct</a>
         </td>
         <td>
-        </td>
-    </tr>
-    <tr>
-        <td>
-        </td>
-        <td>
+            displays type using std::any::type_name
         </td>
     </tr>
     <tr>
         <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=784213671fd9d152118f8ca17ad29feb">mut struct copy and move</a>
         </td>
         <td>
-        </td>
-    </tr>
-    <tr>
-        <td>
-        </td>
-        <td>
+           Illustrates use (and non-use) of derived Copy trait 
         </td>
     </tr>
     <tr>
         <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e609d2e8baf89018de7d236b2c946020">custom enumertion</a>
         </td>
         <td>
+            illustrates matching with custom enumeration
         </td>
     </tr>
     <tr>
         <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=d8ff223b3836c50e1d69e0fcce5b6769">non-enum matching</a>
         </td>
         <td>
+            matching chars: digit, lower case, uppercase, all else
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=5e92f5a601fee0811f8b6ec57ab11cb9">file error handling</a>
+        </td>
+        <td>
+            open for read, write, and read to string
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=6c4eca51d0547462043a8e00c1d063c5">error bubbling
+        </td>
+        <td>
+            illustrates file operations with error bubbling
         </td>
     </tr>
     <tr>
