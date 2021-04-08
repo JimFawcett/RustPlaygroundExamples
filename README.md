@@ -46,10 +46,33 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     </tr>
     <tr>
         <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=9aef988e218bfbdd5df2601e99099b83">iterator for custom type
+        </td>
+        <td>
+            custom type returns iterator over owned collection
+        </td>
+    <tr>
+    <tr>
+        <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=9932c42551e26a53754be10fdb93cd9e">custom iterator
+        </td>
+        <td>
+            implement custom iterator for custom type
+        </td>
+    <tr>
+        <td>
             <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=d871a66bd82f6001ee6cb75a5572a975">interation over collections</a>
         </td>
         <td>
             iterating over array, String, Vec, VecDeq, and HashMap
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=0fd39d1d6629d52d42e225f292d06db4">into_iter</a>
+        </td>
+        <td>
+            compares iter() with into_iter()
         </td>
     </tr>
     <tr>
