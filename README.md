@@ -141,7 +141,7 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=f5a6fdbf301309c94aeb5acd29def1d1">plugin architecture</a>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=28b7994c756c00244848b1668030be97">plugin architecture</a>
         </td>
         <td>
             plugin host holds Option of mutable reference to plugin - needs annotation
