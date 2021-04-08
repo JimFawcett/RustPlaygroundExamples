@@ -133,7 +133,7 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=d9dd444e88f94287499e3bfcdf2b018d">Lifetimes</a>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=ce526d13f4ccd369e74300e19e9b0653">Lifetimes</a>
         </td>
         <td>
             Result and Option wrapping &str so need lifetime annotation
