@@ -5,7 +5,7 @@ A set of links to playground examples that illustrate small bits of Rust syntax
 
 <table border="1">
     <tr>
-        <td>
+        <td style="border-right;">
 <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=2e153e600daf37d3909ca2d6b5950f56">ownership</a>
         </td>
         <td>
