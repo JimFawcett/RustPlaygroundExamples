@@ -46,7 +46,7 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=9aef988e218bfbdd5df2601e99099b83">iterator for custom type
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=f375f3792f84e55cb65d5de3c7d01956">iterator for custom type
         </td>
         <td>
             custom type returns iterator over owned collection
