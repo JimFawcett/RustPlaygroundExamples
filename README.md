@@ -54,7 +54,7 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     <tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=9932c42551e26a53754be10fdb93cd9e">custom iterator
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=527cbf992f6f8991137b105b25dcd7d2">custom iterator
         </td>
         <td>
             implement custom iterator for custom type
