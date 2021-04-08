@@ -149,7 +149,7 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=94b42df60f4f3b90f4b416c21d401592">host owns plugin
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=931f8460fbe875ce03f4e67dee9b304d">host owns plugin
         </td>
         <td>
             eliminate lifetime annotations in plugin architecture by moving plugin into host
