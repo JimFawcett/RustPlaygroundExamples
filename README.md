@@ -3,13 +3,13 @@ A set of links to playground examples that illustrate small bits of Rust syntax
 
 **Playground links to Rust syntax examples**<br />
 
-<table>
+<table border="1">
     <tr>
         <td>
 <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=2e153e600daf37d3909ca2d6b5950f56">ownership</a>
         </td>
-        Ownership violations governed by use
         <td>
+        Ownership violations governed by use
         </td>
 >><a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=2e153e600daf37d3909ca2d6b5950f56">ownership</a><br />
     <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e41f33b89b939afa8476aa84981e4345">functions</a><br />
