@@ -136,7 +136,7 @@ A set of links to playground examples that illustrate small bits of Rust syntax
             <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=499be44643514b758633c5e838b7e254">Lifetimes</a>
         </td>
         <td>
-            Result and Option wrapping &str so need lifetime annotation
+            Result and Option wrapping &str so need lifetime annotation  
         </td>
     </tr>
     <tr>
