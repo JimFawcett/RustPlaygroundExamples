@@ -102,6 +102,44 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     </tr>
     <tr>
         <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=fc78d87ca01bce284c538ca9d59973a5>string conversions</a>
+        </td>
+        <td>
+            convert between String, &str, PathBuf, &Path
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=290be3e0ee60bf077bc74a5246ed00ce">Lifetimes</a>
+        </td>
+        <td>
+            Result and Option wrapping &str so need lifetime annotation
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=f5a6fdbf301309c94aeb5acd29def1d1">plugin architecture</a>
+        </td>
+        <td>
+            plugin host holds Option of mutable reference to plugin - needs annotation
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=94b42df60f4f3b90f4b416c21d401592">host owns plugin
+        </td>
+        <td>
+            eliminate lifetime annotations in plugin architecture by moving plugin into host
+        </td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td>
         </td>
         <td>
         </td>
