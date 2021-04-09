@@ -1,3 +1,4 @@
+<a id="top"></a>
 # RustPlaygroundExamples
 
 **Playground links to Rust syntax examples**<br />
