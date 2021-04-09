@@ -6,7 +6,7 @@
 <table>
     <tr>
         <td style="border-right;">
-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=2e153e600daf37d3909ca2d6b5950f56">ownership</a>
+<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=2d71af0ff332fc987dd1858fb2f76d72">ownership</a>
         </td>
         <td>
         Ownership violations governed by use
