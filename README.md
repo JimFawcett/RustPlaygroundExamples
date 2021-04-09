@@ -77,7 +77,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=c91bdd1431608e101471f3e43e54a73a">generic function and struct</a>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=551c133c8993beb7daf394a9acf556b7">generic function and struct</a>
         </td>
         <td>
             displays type using std::any::type_name
