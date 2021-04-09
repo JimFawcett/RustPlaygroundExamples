@@ -133,7 +133,7 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=08eb16b81c066f5e0208f5d3846fd108"> 
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=77e141de5a622eb8cf5149bdca040f2c"> 
                Lifetimes
             </a>
         </td>
