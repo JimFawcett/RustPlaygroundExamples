@@ -38,7 +38,7 @@
     </tr>
     <tr>
         <td>
-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=53030e9e8e06413538dfa61f3d02f2e8">functions accepting iterator</a>
+<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=be0792fca07c6ebcdc9d8e6bf7199115">functions accepting iterator</a>
         </td>
         <td>
             explicit use of iterator in loop, implicit use with for loop
