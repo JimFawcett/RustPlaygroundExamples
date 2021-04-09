@@ -61,7 +61,7 @@
         </td>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=d871a66bd82f6001ee6cb75a5572a975">interation over collections</a>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=5ae97f90a0c82dd7ff79c3091417d3aa">interation over collections</a>
         </td>
         <td>
             iterating over array, String, Vec, VecDeq, and HashMap
