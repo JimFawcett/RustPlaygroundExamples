@@ -125,7 +125,7 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=fc78d87ca01bce284c538ca9d59973a5>string conversions</a>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=fc78d87ca01bce284c538ca9d59973a5">string conversions</a>
         </td>
         <td>
             convert between String, &str, PathBuf, &Path
@@ -133,7 +133,7 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e9d8f27ac17944b5cdd114efc05f78fe> 
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e9d8f27ac17944b5cdd114efc05f78fe"> 
                Lifetimes
             </a>
         </td>
