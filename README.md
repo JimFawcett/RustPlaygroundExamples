@@ -69,7 +69,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=0fd39d1d6629d52d42e225f292d06db4">into_iter</a>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=c13d881914ea5dd72b0b1e393af8424f">into_iter</a>
         </td>
         <td>
             compares iter() with into_iter()
