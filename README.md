@@ -85,7 +85,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=784213671fd9d152118f8ca17ad29feb">mut struct copy and move</a>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=6d70783830318f03d19c10c890616dda">struct copy and move</a>
         </td>
         <td>
            Illustrates use (and non-use) of derived Copy trait 
