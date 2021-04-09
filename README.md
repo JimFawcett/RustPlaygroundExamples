@@ -117,7 +117,7 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=6c4eca51d0547462043a8e00c1d063c5">error bubbling
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=4308daddf7c612ad7d7b2134dfb7489d">error bubbling
         </td>
         <td>
             illustrates file operations with error bubbling
