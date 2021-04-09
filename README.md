@@ -93,7 +93,7 @@ A set of links to playground examples that illustrate small bits of Rust syntax
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e609d2e8baf89018de7d236b2c946020">custom enumertion</a>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=729f5e3e51b68a3958ebc44c1672f535">custom enumertion</a>
         </td>
         <td>
             illustrates matching with custom enumeration
