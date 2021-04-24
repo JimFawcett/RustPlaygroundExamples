@@ -30,6 +30,16 @@
     </tr>
     <tr>
         <td>
+<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e45ac39a19ebf60852c87961ab1105d6">
+          String, str compares
+</a>
+        </td>
+        <td>
+           Equality comparison between strings using == operator 
+        </td>
+    </tr>
+    <tr>
+        <td>
 <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=7dd8fee11e0afe4f1772b6eaa63031b8">generic struct</a>
         </td>
         <td>
