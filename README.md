@@ -231,12 +231,4 @@
             ThreadResult&lt;T&gt; is similar to C++ future: no hooks into async runtime.
         </td>
     </tr>
-    <tr>
-        <td>
-        </td>
-    </tr>
-    <tr>
-        <td>
-        </td>
-    </tr>
 </table>
