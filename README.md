@@ -48,6 +48,13 @@
     </tr>
     <tr>
         <td>
+        <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=9a6c97cab893f3e325e91145c30dfadc">lifecycle using Box
+        </td>
+        <td>
+            uses TestLifeCycle instance installed in Box to illustrate lifecycle and use of heap
+        </td>
+    <tr>
+        <td>
 <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=be0792fca07c6ebcdc9d8e6bf7199115">functions accepting iterator</a>
         </td>
         <td>
