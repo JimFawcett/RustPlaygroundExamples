@@ -169,14 +169,20 @@
     </tr>
     <tr>
         <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=def5cce838cf257ac8b62e1dd00e94d2">RegEx matching</a>
         </td>
         <td>
+            basic matching examples
         </td>
     </tr>
     <tr>
         <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=2f071dbdfda7b4b5c13a329103f813d3">
+            RegEx Operations
+            </a>
         </td>
         <td>
+           match, find, find_iter, and captures 
         </td>
     </tr>
     <tr>
