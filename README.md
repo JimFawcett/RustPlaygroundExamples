@@ -187,7 +187,55 @@
     </tr>
     <tr>
         <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=a168386d3691f5c2ebf8286591a7602e">interior mutability
         </td>
+        <td>
+            illustrates non-lexical scope analysis and run-time borrow checking with RefCell&lt;T&gt;
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=9d173d6a85d88532be2eab9ea24d67f9">
+                interior mut with std::cell::Cells
+            </a>
+        </td>
+        <td>
+            demos that show mutations with Cell&lt;T&gt; and RefCell&lt;T&gt;
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=c792e1f6af676048cbe51fce925085d5">Basic Threads</a>
+        </td>
+        <td>
+            two threads mutably sharing atomic usize and std::output
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=d6d4d57036dd488009c3854ae9147491">
+            sharing non-thread-safe value protected by Mutex&lt;T&gt;
+            </a>
+        </td>
+        <td>
+            two threads mutably sharing a string
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=8b1a5accb918672f6c288a5786a653f4">
+                ThreadResult&lt;T&gt;
+            </a>
+        </td>
+        <td>
+            ThreadResult&lt;T&gt; is similar to C++ future: no hooks into async runtime.
+        </td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+    </tr>
+    <tr>
         <td>
         </td>
     </tr>
