@@ -39,7 +39,7 @@
     <tr>
         <td>
         <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=5e66938d48c5e26d67a581c396e23195">
-            creating many of the std::collection types
+            create many std::collection types
         </a>
         </td>
         <td>
