@@ -14,10 +14,18 @@
     </tr>
     <tr>
         <td>
-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e41f33b89b939afa8476aa84981e4345">functions</a>
+<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e41f33b89b939afa8476aa84981e4345">basic functions</a>
         </td>
         <td>
            pass by value and by reference 
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=245f7bd87ae75a543589d154e043e1a5">helper functions</a>
+        </td>
+        <td>
+            Illustrates displaying values and types using both concrete types and generic types with a useful set of helper functions.
         </td>
     </tr>
     <tr>
