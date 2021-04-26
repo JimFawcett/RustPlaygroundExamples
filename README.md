@@ -38,6 +38,16 @@
     </tr>
     <tr>
         <td>
+        <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=5e66938d48c5e26d67a581c396e23195">
+            creating many of the std::collection types
+        </a>
+        </td>
+        <td>
+            create and display arrays, tuples, structs, vecs, vecdeques, hashmaps, strings, and strs
+        </td>
+    </tr>
+    <tr>
+        <td>
 <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e45ac39a19ebf60852c87961ab1105d6">
           String, str compares
 </a>
