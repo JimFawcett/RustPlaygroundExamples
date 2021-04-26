@@ -38,6 +38,14 @@
     </tr>
     <tr>
         <td>
+        <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=1ad22a89e0face918655f85c023dd5bd">structs with defaults and clones</a>
+        </td>
+        <td>
+            struct with derived default and clone and struct with defined default and clone
+        </td>
+    </tr>
+    <tr>
+        <td>
         <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=5e66938d48c5e26d67a581c396e23195">
             create many std::collection types
         </a>
