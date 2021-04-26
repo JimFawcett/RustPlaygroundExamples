@@ -25,7 +25,7 @@
         <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=245f7bd87ae75a543589d154e043e1a5">helper functions</a>
         </td>
         <td>
-            Illustrates displaying values and types using both concrete types and generic types with a useful set of helper functions.
+            Illustrates displaying values and types using both concrete and generic functions with a useful set of helper functions.
         </td>
     </tr>
     <tr>
