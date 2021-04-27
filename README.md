@@ -14,6 +14,14 @@
     </tr>
     <tr>
         <td>
+        <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=8f6c2e459e3512945cc8299ac4edf917">copy and move</a>
+        </td>
+        <td>
+            primitive types are copied to new location, non-copy types are moved.  What does that mean?
+        </td>
+    </tr>
+    <tr>
+        <td>
 <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e41f33b89b939afa8476aa84981e4345">basic functions</a>
         </td>
         <td>
