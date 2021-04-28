@@ -237,7 +237,9 @@
         <td>
             convert between String, &str, PathBuf, &Path
         </td>
-        <td></td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Conversions.html">RustBites conver</a>
+        </td>
     </tr>
     <tr>
         <td>
