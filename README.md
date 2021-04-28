@@ -12,7 +12,7 @@
         Ownership violations governed by use
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Ownrs.html">RustBites Ownership</a>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Ownrs.html">RustBites&nbsp;Ownership</a>
         </td>
     </tr>
     <tr>
