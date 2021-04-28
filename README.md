@@ -81,6 +81,17 @@
     </tr>
     <tr>
         <td>
+        <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=ba54eaaf19da0f9b01cbb7421a7cd2ed">iterating over strings</a>
+        </td>
+        <td>
+            iterating over ASCII and non-ASCII strings
+        </td>
+        <td>
+            <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html#strings">RustBites Iterators</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
 <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e45ac39a19ebf60852c87961ab1105d6">
           String, str compares
 </a>
