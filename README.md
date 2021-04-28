@@ -176,7 +176,7 @@
         <td>
         <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a>
         </td>
-    <tr>
+    </tr>
     <tr>
         <td>
             <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=527cbf992f6f8991137b105b25dcd7d2">custom iterator
