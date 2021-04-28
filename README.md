@@ -294,7 +294,9 @@
         <td>
             basic matching examples
         </td>
-        <td></td>
+        <td>
+            <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_RegEx.html">RustBites regex</a>        
+        </td>
     </tr>
     <tr>
         <td>
