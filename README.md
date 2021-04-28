@@ -115,6 +115,9 @@
         <td>
             explicit use of iterator in loop, implicit use with for loop
         </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -122,6 +125,9 @@
         </td>
         <td>
             custom type returns iterator over owned collection
+        </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a>
         </td>
     <tr>
     <tr>
@@ -131,12 +137,18 @@
         <td>
             implement custom iterator for custom type
         </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a>
+        </td>
     <tr>
         <td>
             <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=5ae97f90a0c82dd7ff79c3091417d3aa">interation over collections</a>
         </td>
         <td>
             iterating over array, String, Vec, VecDeq, and HashMap
+        </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a>
         </td>
     </tr>
     <tr>
@@ -145,6 +157,9 @@
         </td>
         <td>
             compares iter() with into_iter()
+        </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a>
         </td>
     </tr>
     <tr>
@@ -162,6 +177,9 @@
         <td>
            Illustrates use (and non-use) of derived Copy trait 
         </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Data.html">RustBites Data</a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -169,6 +187,9 @@
         </td>
         <td>
             illustrates matching with custom enumeration
+        </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Enums.html">RustBites&nbsp;Enum</a>
         </td>
     </tr>
     <tr>
@@ -178,6 +199,9 @@
         <td>
             matching chars: digit, lower case, uppercase, all else
         </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Enums.html">RustBites&nbsp;Enum</a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -186,6 +210,9 @@
         <td>
             open for read, write, and read to string
         </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_ErrHnd.html">RustBites ErrHand</a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -193,6 +220,9 @@
         </td>
         <td>
             illustrates file operations with error bubbling
+        </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_ErrHnd.html">RustBites ErrHand</a>
         </td>
     </tr>
     <tr>
