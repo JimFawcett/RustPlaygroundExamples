@@ -111,7 +111,6 @@
         <td>
         <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Traits.html">RustBites traits</a>
         </td>
-        <td></td>
     </tr>
     <tr>
         <td>
@@ -261,7 +260,10 @@
         <td>
             Result and Option wrapping &str so need lifetime annotation  
         </td>
-        <td></td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_LifeTime.html">RustBites lifetime</a><br />
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Options.html">RustBites options</a><br />
+        </td>
     </tr>
     <tr>
         <td>
@@ -270,7 +272,9 @@
         <td>
             plugin host holds Option of mutable reference to plugin - needs annotation
         </td>
-        <td></td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Options.html">RustBites options</a><br />
+        </td>
     </tr>
     <tr>
         <td>
@@ -279,7 +283,9 @@
         <td>
             eliminate lifetime annotations in plugin architecture by moving plugin into host
         </td>
-        <td></td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Options.html">RustBites options</a><br />
+        </td>
     </tr>
     <tr>
         <td>
@@ -299,7 +305,9 @@
         <td>
            match, find, find_iter, and captures 
         </td>
-        <td></td>
+        <td>
+            https://jimfawcett.github.io/Resources/RustBites/RustBites_RegEx.html        
+        </td>
     </tr>
     <tr>
         <td>
@@ -308,7 +316,9 @@
         <td>
             illustrates non-lexical scope analysis and run-time borrow checking with RefCell&lt;T&gt;
         </td>
-        <td></td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Safety.html#intmut">RustBites Safety</a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -319,7 +329,9 @@
         <td>
             demos that show mutations with Cell&lt;T&gt; and RefCell&lt;T&gt;
         </td>
-        <td></td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_SmrtPtrs.html">RustBites&nbsp;smartptrs</a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -328,7 +340,9 @@
         <td>
             two threads mutably sharing atomic usize and std::output
         </td>
-        <td></td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Threads.html#threads">RustBites threads</a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -339,7 +353,9 @@
         <td>
             two threads mutably sharing a string
         </td>
-        <td></td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Threads.html#sharing">RustBites threads</a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -350,6 +366,8 @@
         <td>
             ThreadResult&lt;T&gt; is similar to C++ future: no hooks into async runtime.
         </td>
-        <td></td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Threads.html#thrdrslt">RustBites threads</a>
+        </td>
     </tr>
 </table>
