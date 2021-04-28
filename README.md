@@ -28,7 +28,7 @@
         </td>
         <td>
            pass by value and by reference<br />
-            <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Functs.html>RustBites Functions</a>
+            <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Functs.html">RustBites Functions</a>
         </td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@
         </td>
         <td>
            struct with constructor and methods<br />
-           <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Structs.html>RustBites structs</a>
+           <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Structs.html">RustBites structs</a>
         </td>
     </tr>
     <tr>
