@@ -9,7 +9,9 @@
 <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=2d71af0ff332fc987dd1858fb2f76d72">ownership</a>
         </td>
         <td>
-        Ownership violations governed by use<br />
+        Ownership violations governed by use
+        </td>
+        <td>
         <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Ownrs.html">RustBites Ownership</a>
         </td>
     </tr>
