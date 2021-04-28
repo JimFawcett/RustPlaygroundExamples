@@ -64,6 +64,7 @@
         <td>
             struct with derived default and clone and struct with defined default and clone
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -87,6 +88,7 @@
         <td>
            Equality comparison between strings using == operator 
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -98,6 +100,7 @@
         <td>
         <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Traits.html">RustBites traits</a>
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -170,6 +173,7 @@
         <td>
             displays type using std::any::type_name
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -233,6 +237,7 @@
         <td>
             convert between String, &str, PathBuf, &Path
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -243,6 +248,7 @@
         <td>
             Result and Option wrapping &str so need lifetime annotation  
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -251,6 +257,7 @@
         <td>
             plugin host holds Option of mutable reference to plugin - needs annotation
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -259,6 +266,7 @@
         <td>
             eliminate lifetime annotations in plugin architecture by moving plugin into host
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -267,6 +275,7 @@
         <td>
             basic matching examples
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -277,6 +286,7 @@
         <td>
            match, find, find_iter, and captures 
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -285,6 +295,7 @@
         <td>
             illustrates non-lexical scope analysis and run-time borrow checking with RefCell&lt;T&gt;
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -295,6 +306,7 @@
         <td>
             demos that show mutations with Cell&lt;T&gt; and RefCell&lt;T&gt;
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -303,6 +315,7 @@
         <td>
             two threads mutably sharing atomic usize and std::output
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -313,6 +326,7 @@
         <td>
             two threads mutably sharing a string
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
@@ -323,5 +337,6 @@
         <td>
             ThreadResult&lt;T&gt; is similar to C++ future: no hooks into async runtime.
         </td>
+        <td></td>
     </tr>
 </table>
