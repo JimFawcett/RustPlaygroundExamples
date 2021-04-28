@@ -18,7 +18,8 @@
         <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=8f6c2e459e3512945cc8299ac4edf917">copy and move</a>
         </td>
         <td>
-            primitive types are copied to new location, non-copy types are moved.  What does that mean?
+            primitive types are copied to new location, non-copy types are moved.<br />
+            <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Data.html">RustBites Data</a>
         </td>
     </tr>
     <tr>
@@ -26,7 +27,8 @@
 <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e41f33b89b939afa8476aa84981e4345">basic functions</a>
         </td>
         <td>
-           pass by value and by reference 
+           pass by value and by reference<br />
+            <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Functs.html>RustBites Functions</a>
         </td>
     </tr>
     <tr>
@@ -42,7 +44,8 @@
 <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=0e149a761bf748f4a2b9f7acc120e816">structs</a>
         </td>
         <td>
-           struct with constructor and methods 
+           struct with constructor and methods<br />
+           <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Structs.html>RustBites structs</a>
         </td>
     </tr>
     <tr>
