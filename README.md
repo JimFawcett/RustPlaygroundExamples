@@ -306,7 +306,7 @@
            match, find, find_iter, and captures 
         </td>
         <td>
-            https://jimfawcett.github.io/Resources/RustBites/RustBites_RegEx.html        
+            <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_RegEx.html">RustBites regex</a>        
         </td>
     </tr>
     <tr>
