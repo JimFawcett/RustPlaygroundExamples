@@ -195,7 +195,8 @@
             iterating over array, String, Vec, VecDeq, and HashMap
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a><br />
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_DataStr.html">RustBites&nbsp;DataStr</a>
         </td>
     </tr>
     <tr>
