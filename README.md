@@ -90,6 +90,17 @@
     </tr>
     <tr>
         <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=6d70783830318f03d19c10c890616dda">struct copy and move</a>
+        </td>
+        <td>
+           Illustrates use (and non-use) of derived Copy trait 
+        </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Data.html">RustBites Data</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
         <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=5e66938d48c5e26d67a581c396e23195">
             create many std::collection types
         </a>
@@ -185,17 +196,6 @@
         </td>
         <td>
         <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=6d70783830318f03d19c10c890616dda">struct copy and move</a>
-        </td>
-        <td>
-           Illustrates use (and non-use) of derived Copy trait 
-        </td>
-        <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Data.html">RustBites Data</a>
         </td>
     </tr>
     <tr>
