@@ -68,6 +68,28 @@
     </tr>
     <tr>
         <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=551c133c8993beb7daf394a9acf556b7">generic function and struct</a>
+        </td>
+        <td>
+            displays type using std::any::type_name
+        </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Traits.html">RustBites traits</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=7dd8fee11e0afe4f1772b6eaa63031b8">generic struct</a>
+        </td>
+        <td>
+            generic struct with bounds
+        </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Traits.html">RustBites traits</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
         <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=5e66938d48c5e26d67a581c396e23195">
             create many std::collection types
         </a>
@@ -100,28 +122,6 @@
            Equality comparison between strings using == operator 
         </td>
         <td></td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=551c133c8993beb7daf394a9acf556b7">generic function and struct</a>
-        </td>
-        <td>
-            displays type using std::any::type_name
-        </td>
-        <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Traits.html">RustBites traits</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=7dd8fee11e0afe4f1772b6eaa63031b8">generic struct</a>
-        </td>
-        <td>
-            generic struct with bounds
-        </td>
-        <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Traits.html">RustBites traits</a>
-        </td>
     </tr>
     <tr>
         <td>
