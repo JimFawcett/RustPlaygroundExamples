@@ -1,7 +1,7 @@
 <a id="top"></a>
 # RustPlaygroundExamples
 
-**Playground links to Rust syntax examples** - see also <a href="https://jimfawcett.github.io/IndexPage.html">Rust Glossary</a>><br />
+**Playground links to Rust syntax examples** - see also <a href="https://jimfawcett.github.io/IndexPage.html">Rust Glossary</a><br />
 
 <table>
     <tr>
