@@ -44,6 +44,7 @@
         <td>
             Illustrates displaying values and types using both concrete and generic functions with a useful set of helper functions.
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>
