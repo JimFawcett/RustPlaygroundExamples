@@ -136,6 +136,17 @@
     </tr>
     <tr>
         <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=fc78d87ca01bce284c538ca9d59973a5">string conversions</a>
+        </td>
+        <td>
+            convert between String, &str, PathBuf, &Path
+        </td>
+        <td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Conversions.html">RustBites conver</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
         <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=9a6c97cab893f3e325e91145c30dfadc">lifecycle using Box
         </td>
         <td>
@@ -240,17 +251,6 @@
         </td>
         <td>
         <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_ErrHnd.html">RustBites ErrHand</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=fc78d87ca01bce284c538ca9d59973a5">string conversions</a>
-        </td>
-        <td>
-            convert between String, &str, PathBuf, &Path
-        </td>
-        <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Conversions.html">RustBites conver</a>
         </td>
     </tr>
     <tr>
