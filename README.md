@@ -109,8 +109,26 @@
             create and display arrays, tuples, structs, vecs, vecdeques, hashmaps, strings, and strs
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Collects.html">RustBites&nbsp;Collections
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Collects.html">RustBites&nbsp;Collections</a>
         </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=0ffde3d093e8e714a073a62344b4409e">str</a>
+        </td>
+        <td>
+            basic str operations
+        </td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Strings.html#str">RustBites&nbsp;Strings</a>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=4c3aa9523bc43e733ea6a626b26b2503">String</a>
+        </td>
+        <td>
+            basic String operations
+        </td>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Strings.html#str">RustBites&nbsp;Strings</a>
     </tr>
     <tr>
         <td>
