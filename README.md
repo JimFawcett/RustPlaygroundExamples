@@ -131,7 +131,7 @@
             basic String operations
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Strings.html#str">RustBites&nbsp;Strings</a>
+        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Strings.html#string">RustBites&nbsp;Strings</a>
         </td>
     </tr>
     <tr>
