@@ -125,7 +125,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=4c3aa9523bc43e733ea6a626b26b2503">String</a>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=46f6bf13eaf69fe93dd058dc4fe27252">String</a>
         </td>
         <td>
             basic String operations
