@@ -269,7 +269,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=4308daddf7c612ad7d7b2134dfb7489d">error bubbling
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=eec8591acdd3d21c973f97b959d9ea48">error bubbling
         </td>
         <td>
             illustrates file operations with error bubbling.  The ErrHand link at the right explains how the bubbling process works using
