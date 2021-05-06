@@ -258,7 +258,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=5e92f5a601fee0811f8b6ec57ab11cb9">file error handling</a>
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=4308daddf7c612ad7d7b2134dfb7489d">file error handling</a>
         </td>
         <td>
             open for read, write, and read to string
