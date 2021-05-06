@@ -64,7 +64,9 @@
         <td>
             struct with derived default and clone and struct with defined default and clone
         </td>
-        <td></td>
+        <td>
+             <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Traits.html">RustBites Generics and Traits</a>
+        </td>
     </tr>
     <tr>
         <td>
