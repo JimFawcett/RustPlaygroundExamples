@@ -377,12 +377,12 @@
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=d6d4d57036dd488009c3854ae9147491">
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=6eed5377a42eb429ccced6d01c8a2b10">
             sharing non-thread-safe value protected by Mutex&lt;T&gt;
             </a>
         </td>
         <td>
-            two threads mutably sharing a string
+            main and two child threads mutably sharing a string
         </td>
         <td>
         <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Threads.html#sharing">RustBites threads</a>
@@ -395,7 +395,7 @@
             </a>
         </td>
         <td>
-            ThreadResult&lt;T&gt; is similar to C++ future: no hooks into async runtime.
+            ThreadResult&lt;T&gt; is similar to C++ future: no hooks into async runtime.  See link at right for details.
         </td>
         <td>
         <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Threads.html#thrdrslt">RustBites threads</a>
