@@ -298,7 +298,8 @@
             <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=28b7994c756c00244848b1668030be97">plugin architecture</a>
         </td>
         <td>
-            plugin host holds Option of mutable reference to plugin - needs annotation
+            plugin host holds Option of mutable reference to plugin - needs annotation. See options link at right for context: why you might
+            chose this architecture.
         </td>
         <td>
         <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Options.html">RustBites options</a><br />
@@ -309,7 +310,7 @@
             <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=931f8460fbe875ce03f4e67dee9b304d">host owns plugin
         </td>
         <td>
-            eliminate lifetime annotations in plugin architecture by moving plugin into host
+            eliminate lifetime annotations in plugin architecture by moving plugin into host. See options link at right for advantages of host ownership.
         </td>
         <td>
         <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Options.html">RustBites options</a><br />
