@@ -81,7 +81,7 @@
     </tr>
     <tr>
         <td>
-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=7dd8fee11e0afe4f1772b6eaa63031b8">generic struct</a>
+<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=551e1370ae5faf0763bef4b0e46ba7c3">generic struct</a>
         </td>
         <td>
             generic struct with bounds
