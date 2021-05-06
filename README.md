@@ -272,7 +272,8 @@
             <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=4308daddf7c612ad7d7b2134dfb7489d">error bubbling
         </td>
         <td>
-            illustrates file operations with error bubbling
+            illustrates file operations with error bubbling.  The ErrHand link at the right explains how the bubbling process works using
+            the &quot;?&quot; try operator.
         </td>
         <td>
         <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_ErrHnd.html">RustBites ErrHand</a>
