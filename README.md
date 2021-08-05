@@ -56,7 +56,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             Closures are function objects that operate on parameters and captures of local data.
         </td>
         <td>
-          <a href="">closures
+          <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Functs#closures.html">RustBites Functions &gt; closures</a>
         </td>
     </tr>
     <tr>
