@@ -50,6 +50,17 @@ Find all playground example code in the examples subdirectory.  You can run any 
     </tr>
     <tr>
         <td>
+        <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=245f7bd87ae75a543589d154e043e1a5">closures</a>
+        </td>
+        <td>
+            Closures are function objects that operate on parameters and captures of local data.
+        </td>
+        <td>
+          <a href="">closures
+        </td>
+    </tr>
+    <tr>
+        <td>
 <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=0e149a761bf748f4a2b9f7acc120e816">structs</a>
         </td>
         <td>
