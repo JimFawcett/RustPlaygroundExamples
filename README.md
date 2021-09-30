@@ -1,7 +1,9 @@
 <a id="top"></a>
 # RustPlaygroundExamples
 
-**Playground links to Rust syntax examples** - see also <a href="https://jimfawcett.github.io/IndexPage.html">Rust Glossary</a><br /> and <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_FlashCards.html">Flash Cards</a><br />
+**Playground links to Rust syntax examples** - see also:
+- <a href="https://jimfawcett.github.io/IndexPage.html">Rust Glossary</a><br />
+- <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_FlashCards.html">Flash Cards</a><br />
 Find all playground example code in the examples subdirectory.  You can run any of these locally with the command:<br />
   ```cargo run --example [name of example file omitting the rs extension]```
 
