@@ -5,7 +5,8 @@
 - <a href="https://jimfawcett.github.io/IndexPage.html">Rust Glossary</a><br />
 - <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_FlashCards.html">Flash Cards</a><br />
 
-Find all playground example code in the examples subdirectory.  You can run any of these remotely with the included links or locally with the command:<br />
+Find all playground example code in the examples subdirectory.  You can run any of these remotely with the included links 
+or locally with the command:<br />
   ```cargo run --example [name of example file omitting the rs extension]```
 
 <table>
