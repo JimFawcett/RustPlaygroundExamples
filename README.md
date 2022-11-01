@@ -120,7 +120,7 @@ or locally with the command:<br />
     </tr>
     <tr>
         <td>
-        <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=5e66938d48c5e26d67a581c396e23195">
+        <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=fa3ccfaadc2f2c8f1fb9de0c6327fb60">
             create many std::collection types
         </a>
         </td>
