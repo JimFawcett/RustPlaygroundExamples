@@ -1,5 +1,0 @@
-C:\github\JimFawcett\RustPlaygroundExamples\target\debug\examples\libfunctions_accepting_iterator-89ccbc1275260232.rmeta: examples\functions_accepting_iterator.rs
-
-C:\github\JimFawcett\RustPlaygroundExamples\target\debug\examples\functions_accepting_iterator-89ccbc1275260232.d: examples\functions_accepting_iterator.rs
-
-examples\functions_accepting_iterator.rs:

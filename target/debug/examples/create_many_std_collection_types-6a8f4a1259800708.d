@@ -1,5 +1,0 @@
-C:\github\JimFawcett\RustPlaygroundExamples\target\debug\examples\libcreate_many_std_collection_types-6a8f4a1259800708.rmeta: examples\create_many_std_collection_types.rs
-
-C:\github\JimFawcett\RustPlaygroundExamples\target\debug\examples\create_many_std_collection_types-6a8f4a1259800708.d: examples\create_many_std_collection_types.rs
-
-examples\create_many_std_collection_types.rs:
