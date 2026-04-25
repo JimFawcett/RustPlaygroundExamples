@@ -1,8 +1,12 @@
 <a id="top"></a>
 # RustPlaygroundExamples
 
-**Playground links to Rust syntax examples** - see also <a href="https://jimfawcett.github.io/IndexPage.html">Rust Glossary</a><br /><br />
-Find all playground example code in the examples subdirectory.  You can run any of these locally with the command:<br />
+**Playground links to Rust syntax examples** - see also:
+- <a href="https://jimfawcett.github.io/IndexPage.html">Rust Glossary</a><br />
+- <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_FlashCards.html">Flash Cards</a><br />
+
+Find all playground example code in the examples subdirectory.  You can run any of these remotely with the included links<br /> 
+or locally with the command:<br />
   ```cargo run --example [name of example file omitting the rs extension]```
 
 <table>
@@ -116,7 +120,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
     </tr>
     <tr>
         <td>
-        <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=5e66938d48c5e26d67a581c396e23195">
+        <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=fa3ccfaadc2f2c8f1fb9de0c6327fb60">
             create many std::collection types
         </a>
         </td>
@@ -205,7 +209,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
     </tr>
     <tr>
         <td>
-            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=f375f3792f84e55cb65d5de3c7d01956">iterator for custom type
+            <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=27b6e0c66a791a13440022036d0d18bd">iterator for custom type</a>
         </td>
         <td>
             custom type returns iterator over owned collection
