@@ -2,8 +2,8 @@
 # RustPlaygroundExamples
 
 **Playground links to Rust syntax examples** - see also:
-- <a href="https://jimfawcett.github.io/IndexPage.html">Rust Glossary</a><br />
-- <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_FlashCards.html">Flash Cards</a><br />
+- <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Glossary.html">Rust Glossary</a><br />
+- <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_FlashCards.html">Flash Cards</a><br />
 
 Find all playground example code in the examples subdirectory.  You can run any of these remotely with the included links<br /> 
 or locally with the command:<br />
