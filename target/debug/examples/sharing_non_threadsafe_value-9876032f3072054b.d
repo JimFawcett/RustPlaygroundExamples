@@ -1,0 +1,5 @@
+C:\github\JimFawcett\RustPlaygroundExamples\target\debug\examples\libsharing_non_threadsafe_value-9876032f3072054b.rmeta: examples\sharing_non_threadsafe_value.rs
+
+C:\github\JimFawcett\RustPlaygroundExamples\target\debug\examples\sharing_non_threadsafe_value-9876032f3072054b.d: examples\sharing_non_threadsafe_value.rs
+
+examples\sharing_non_threadsafe_value.rs:

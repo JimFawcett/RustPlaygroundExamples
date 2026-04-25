@@ -1,0 +1,5 @@
+C:\github\JimFawcett\RustPlaygroundExamples\target\debug\examples\libstructs_with_defaults_and_clones-2d7d65e783c47325.rmeta: examples\structs_with_defaults_and_clones.rs
+
+C:\github\JimFawcett\RustPlaygroundExamples\target\debug\examples\structs_with_defaults_and_clones-2d7d65e783c47325.d: examples\structs_with_defaults_and_clones.rs
+
+examples\structs_with_defaults_and_clones.rs:

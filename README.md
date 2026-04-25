@@ -14,7 +14,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
         Ownership violations governed by use
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Ownrs.html">RustBites&nbsp;Ownership</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Ownrs.html">RustBites&nbsp;Ownership</a>
         </td>
     </tr>
     <tr>
@@ -25,7 +25,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             primitive types are copied to new location, non-copy types are moved.
         </td>
         <td>
-            <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Data.html">RustBites Data</a>
+            <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Data.html">RustBites Data</a>
         </td>
     </tr>
     <tr>
@@ -36,7 +36,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
            pass by value and by reference
         </td>
         <td>
-            <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Functs.html">RustBites Functions</a>
+            <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Funcs.html">RustBites Functions</a>
         </td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             Closures are function objects that operate on parameters and captures of local data.
         </td>
         <td>
-          <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Functs.html#closures">RustBites Functions</a>
+          <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Funcs.html#closures">RustBites Functions</a>
         </td>
     </tr>
     <tr>
@@ -67,7 +67,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
            struct with constructor and methods
         </td>
         <td>
-           <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Structs.html">RustBites structs</a>
+           <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Structs.html">RustBites structs</a>
         </td>
     </tr>
     <tr>
@@ -78,7 +78,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             struct with derived default and clone and struct with defined default and clone
         </td>
         <td>
-             <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Traits.html">RustBites Generics and Traits</a>
+             <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Traits.html">RustBites Generics and Traits</a>
         </td>
     </tr>
     <tr>
@@ -89,7 +89,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             displays type using std::any::type_name
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Traits.html">RustBites traits</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Traits.html">RustBites traits</a>
         </td>
     </tr>
     <tr>
@@ -100,7 +100,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             generic struct with bounds
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Traits.html">RustBites traits</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Traits.html">RustBites traits</a>
         </td>
     </tr>
     <tr>
@@ -111,7 +111,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
            Illustrates use (and non-use) of derived Copy trait 
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Data.html">RustBites Data</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Data.html">RustBites Data</a>
         </td>
     </tr>
     <tr>
@@ -124,7 +124,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             create and display arrays, tuples, structs, vecs, vecdeques, hashmaps, strings, and strs
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Collects.html">RustBites&nbsp;Collections</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Collects.html">RustBites&nbsp;Collections</a>
         </td>
     </tr>
     <tr>
@@ -135,7 +135,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             basic str operations
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Strings.html#str">RustBites&nbsp;Strings</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Strings.html#str">RustBites&nbsp;Strings</a>
         </td>
     </tr>
     <tr>
@@ -146,7 +146,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             basic String operations
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Strings.html#string">RustBites&nbsp;Strings</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Strings.html#string">RustBites&nbsp;Strings</a>
         </td>
     </tr>
     <tr>
@@ -157,7 +157,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             iterating over ASCII and non-ASCII strings
         </td>
         <td>
-            <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html#strings">RustBites Iterators</a>
+            <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Iterators.html#strings">RustBites Iterators</a>
         </td>
     </tr>
     <tr>
@@ -179,7 +179,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             convert between String, &str, PathBuf, &Path
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Conversions.html">RustBites conver</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Conversions.html">RustBites conver</a>
         </td>
     </tr>
     <tr>
@@ -190,7 +190,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             uses TestLifeCycle instance installed in Box to illustrate lifecycle and use of heap
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_LifeCycle.html">RustBites&nbsp;LifeCycle</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_LifeCycle.html">RustBites&nbsp;LifeCycle</a>
         </td>
     <tr>
         <td>
@@ -200,7 +200,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             explicit use of iterator in loop, implicit use with for loop
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Iterators.html">RustBites&nbsp;Iterators</a>
         </td>
     </tr>
     <tr>
@@ -211,7 +211,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             custom type returns iterator over owned collection
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Iterators.html">RustBites&nbsp;Iterators</a>
         </td>
     </tr>
     <tr>
@@ -222,7 +222,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             implement custom iterator for custom type
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Iterator.html">RustBites&nbsp;Iterators</a>
         </td>
     <tr>
         <td>
@@ -232,8 +232,8 @@ Find all playground example code in the examples subdirectory.  You can run any 
             iterating over array, String, Vec, VecDeq, and HashMap
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a><br />
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_DataStr.html">RustBites&nbsp;DataStr</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Iterators.html">RustBites&nbsp;Iterators</a><br />
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_DataStr.html">RustBites&nbsp;DataStr</a>
         </td>
     </tr>
     <tr>
@@ -244,7 +244,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             compares iter() with into_iter()
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Iterator.html">RustBites&nbsp;Iterators</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Iterators.html">RustBites&nbsp;Iterators</a>
         </td>
     </tr>
     <tr>
@@ -255,7 +255,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             illustrates matching with custom enumeration
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Enums.html">RustBites&nbsp;Enum</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Enums.html">RustBites&nbsp;Enum</a>
         </td>
     </tr>
     <tr>
@@ -266,7 +266,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             matching chars: digit, lower case, uppercase, all else
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Enums.html">RustBites&nbsp;Enum</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Enums.html">RustBites&nbsp;Enum</a>
         </td>
     </tr>
     <tr>
@@ -277,7 +277,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             open for read, write, and read to string
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_ErrHnd.html">RustBites ErrHand</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_ErrHnd.html">RustBites ErrHand</a>
         </td>
     </tr>
     <tr>
@@ -289,7 +289,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             the &quot;?&quot; try operator.
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_ErrHnd.html">RustBites ErrHand</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_ErrHnd.html">RustBites ErrHand</a>
         </td>
     </tr>
     <tr>
@@ -302,8 +302,8 @@ Find all playground example code in the examples subdirectory.  You can run any 
             Result and Option wrapping &str so need lifetime annotation  
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_LifeTime.html">RustBites lifetime</a><br />
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Options.html">RustBites options</a><br />
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_LifeTime.html">RustBites lifetime</a><br />
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Options.html">RustBites options</a><br />
         </td>
     </tr>
     <tr>
@@ -315,7 +315,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             chose this architecture.
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Options.html">RustBites options</a><br />
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Options.html">RustBites options</a><br />
         </td>
     </tr>
     <tr>
@@ -326,7 +326,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             eliminate lifetime annotations in plugin architecture by moving plugin into host. See options link at right for advantages of host ownership.
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Options.html">RustBites options</a><br />
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Options.html">RustBites options</a><br />
         </td>
     </tr>
     <tr>
@@ -337,7 +337,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             basic matching examples
         </td>
         <td>
-            <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_RegEx.html">RustBites regex</a>        
+            <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_RegEx.html">RustBites regex</a>        
         </td>
     </tr>
     <tr>
@@ -350,7 +350,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
            match, find, find_iter, and captures 
         </td>
         <td>
-            <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_RegEx.html">RustBites regex</a>        
+            <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_RegEx.html">RustBites regex</a>        
         </td>
     </tr>
     <tr>
@@ -361,7 +361,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             illustrates non-lexical scope analysis and run-time borrow checking with RefCell&lt;T&gt;
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Safety.html#intmut">RustBites Safety</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Safety.html#intmut">RustBites Safety</a>
         </td>
     </tr>
     <tr>
@@ -374,7 +374,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             demos that show mutations with Cell&lt;T&gt; and RefCell&lt;T&gt;
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_SmrtPtrs.html">RustBites&nbsp;smartptrs</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_SmrtPtrs.html">RustBites&nbsp;smartptrs</a>
         </td>
     </tr>
     <tr>
@@ -385,7 +385,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             two threads mutably sharing atomic usize and std::output
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Threads.html#threads">RustBites threads</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Threads.html#threads">RustBites threads</a>
         </td>
     </tr>
     <tr>
@@ -398,7 +398,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             main and two child threads mutably sharing a string
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Threads.html#sharing">RustBites threads</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Threads.html#sharing">RustBites threads</a>
         </td>
     </tr>
     <tr>
@@ -411,7 +411,7 @@ Find all playground example code in the examples subdirectory.  You can run any 
             ThreadResult&lt;T&gt; is similar to C++ future: no hooks into async runtime.  See link at right for details.
         </td>
         <td>
-        <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_Threads.html#thrdrslt">RustBites threads</a>
+        <a href="https://jimfawcett.github.io/NewSite/Rust/RustBites_Threads.html#thrdrslt">RustBites threads</a>
         </td>
     </tr>
 </table>
